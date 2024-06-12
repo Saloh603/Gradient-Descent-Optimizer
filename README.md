@@ -1,4 +1,4 @@
-# Welcome to My Linear Regression
+# Welcome to My Gradient Descent 
 ***
 
 ## Task
